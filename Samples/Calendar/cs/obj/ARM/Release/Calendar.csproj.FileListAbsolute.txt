@@ -1,0 +1,2 @@
+C:\Workspace\My_Projects\UWP_Test\Calendar\cs\obj\ARM\Release\Calendar.csproj.AssemblyReference.cache
+C:\Workspace\My_Projects\UWP_Test\Calendar\cs\obj\ARM\Release\Calendar.csproj.CoreCompileInputs.cache
